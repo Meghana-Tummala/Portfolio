@@ -56,7 +56,7 @@ const Page = () => {
         </BioSection>
         <BioSection>
           <BioYear>2025</BioYear>
-          Graduated with a master's degree in Computer Science at 
+          Graduated with a master&apos;s degree in Computer Science at 
           George Mason University, Virginia
         </BioSection>
       </Section>
