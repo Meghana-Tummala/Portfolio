@@ -29,7 +29,10 @@ const Page = () => {
                 <Heading as="h3" variant="section-title">
                     Work
                 </Heading>
-                <Paragraph>Hello, I’m Meghana, a recent Master’s graduate in Computer Science from George Mason University. I’m passionate about AI and full-stack development, and I enjoy building practical solutions that have a real impact. Feel free to explore my projects, and if anything sparks your interest, I’d love to connect.</Paragraph>
+                <Paragraph>
+                  Hello, I&apos;m Meghana, a recent Master&apos;s graduate in Computer Science from George Mason University. I&apos;m passionate about AI and full-stack development, and I enjoy building practical solutions that have a real impact. Feel free to explore my projects, and if anything sparks your interest, I&apos;d love to connect.
+                </Paragraph>
+
                 <Box align="center" my={4}>
                     
                         <Button as="a" href="/resume.pdf" target="_blank" rel="noopener noreferrer" rightIcon={<ChevronRightIcon></ChevronRightIcon>} colorScheme="teal">
