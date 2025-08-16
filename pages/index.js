@@ -1,6 +1,6 @@
 // pages/index.js
 import { Box, Heading, Text, Button, VStack, Center } from '@chakra-ui/react'
-import VoxelScene from '../components/voxel-scene'
+//import VoxelScene from '../components/voxel-scene'
 import { useRouter } from 'next/router'
 import dynamic from 'next/dynamic'
 

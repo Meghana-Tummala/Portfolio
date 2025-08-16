@@ -2,7 +2,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { Text, useColorModeValue } from "@chakra-ui/react";
 import styled from "@emotion/styled";
-import { px } from "framer-motion";
+//import { px } from "framer-motion";
 
 const LogoBox = styled("span")`
     font-weight: bold,

@@ -15,7 +15,7 @@ import {
     useColorModeValue
 } from '@chakra-ui/react'
 import {HamburgerIcon} from '@chakra-ui/icons'
-import { base } from "framer-motion/client";
+//import { base } from "framer-motion/client";
 import ThemeToggleButton from './theme-toggle-button.js';
 
 const LinkItem = ({href, path, children}) => {
